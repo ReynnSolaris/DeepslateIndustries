@@ -21,7 +21,7 @@ The **Amethyst Enhancer** uses *Crystallized Amethyst Dust* to transmute or upgr
 
 ## 📦 Recipes
 
-| Input A           | Input B            | Output                  | Cook Time | Energy Cost |
+| Input A           | Input B            | Output                  | Cook Time | RF Per Tick |
 |-------------------|--------------------|--------------------------|-----------|-------------|
 | Coal              | *(none)*           | Amethyzed Coal           | 150       | 12          |
 | Rotten Flesh      | *(none)*           | Leather                  | 1000      | 1           |
